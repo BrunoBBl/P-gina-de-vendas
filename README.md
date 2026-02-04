@@ -46,7 +46,9 @@ tech-shop-landing/
 2. Abra o arquivo index.html no navegador.
 3. (Opcional) Coloque suas próprias imagens na pasta imagens/ e atualize os caminhos no HTML.
 
-![pagina de vendas](https://github.com/user-attachments/assets/990fc768-4755-4318-8954-a669cb8da38f)
-![tela princiapal](https://github.com/user-attachments/assets/732d11a8-89bf-469c-ad28-a161cc283d63)
-![best sellers](https://github.com/user-attachments/assets/42e242eb-af67-45f4-81a4-7a3ab5ffc22f)
-![newletter e footer](https://github.com/user-attachments/assets/80c1f43d-cdff-4c86-80b7-f2865b3750af)
+![header](https://github.com/user-attachments/assets/745006f7-4ebc-4750-ac72-8aade2773ccb)
+![best sellers1](https://github.com/user-attachments/assets/9c5d141f-a307-4236-9650-0dea3f5de7c7)
+![newsletter e footer](https://github.com/user-attachments/assets/b1e0d254-54d3-4535-8c10-964e9a5c62f1)
+
+
+
